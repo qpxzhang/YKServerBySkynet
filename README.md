@@ -2,7 +2,7 @@
 
 ## 架构相关
 - mysql 备份数据库 + redis运行时数据库
-- websocket + hhtp协议
+- websocket + http协议
 -  c语言核心lua语言写业务逻辑
 -  Skynet为框架核心
 
